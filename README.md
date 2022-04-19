@@ -8,7 +8,7 @@ Requirements\
  \
 How to Start Projects?\
 "python <project-name>" for python projects.\
-"mvn clean test" for java project.\
+"mvn clean test" for java project.
   
 ![Alt Text](https://github.com/furkankaanulucay/selenium-examples/blob/main/java-selenium.gif)
  
